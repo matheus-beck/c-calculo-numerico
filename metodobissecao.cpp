@@ -1,6 +1,6 @@
 // UNIVERSIDADE FEDERAL DA BAHIA
 // MAT174 - CALCULO NUMÉRICO I
-// Autores: Matheus Beck e Lucio Vinicius
+// Autor: Matheus Beck
 
 #include <iostream>
 #include <iomanip>
