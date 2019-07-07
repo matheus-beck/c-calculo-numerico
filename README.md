@@ -12,3 +12,14 @@ o algoritmo foi feito utilizando sucessivas chamadas recursivas da função meto
 de newton, utilizamos duas funções, representando nosso a(x) e nosso a’(x) respectivamente, onde nosso valor de x aproximado é 
 calculado segundo a expressão x = xi - (funcao(xi)/funcaoDerivada(xi)), x é calculado n vezes, sendo n a quantidade máxima de 
 iterações do loop, passada como argumento da função.
+
+Para executar os programas:
+```c++
+$ g++ -o metodobs metodobissecao.cpp
+$ ./metodobs
+```
+ou
+```c++
+$ g++ -o metodonewton metodonewton.cpp
+$ ./metodonewton
+```
