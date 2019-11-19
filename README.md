@@ -23,3 +23,7 @@ ou
 $ g++ -o metodonewton metodonewton.cpp
 $ ./metodonewton
 ```
+
+---
+
+Made with ❤️ and ☕ by Matheus Beck :wave: [Get in touch!](https://www.linkedin.com/in/matheus-beck/)
